@@ -1,7 +1,7 @@
 ### Oiii eu sou a Anderson Rodrigues! 👋
 
 - 🔭 Hoje trabalho com front-end freelancer
-- 🌱 Estou terminando os estudos de html, css e java script
+- 🌱 Estou estudando desenvolvimento full stack e terminando o módulo de html, css e java script
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronomes: ele/dele
