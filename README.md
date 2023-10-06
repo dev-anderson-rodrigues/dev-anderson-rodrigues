@@ -1,4 +1,4 @@
-### Oiii eu sou a Anderson Rodrigues! 👋
+### Oiii eu sou Anderson Rodrigues! 👋
 
 - 🔭 Hoje trabalho com front-end freelancer
 - 🌱 Estou estudando desenvolvimento full stack e terminando o módulo de html, css e java script
