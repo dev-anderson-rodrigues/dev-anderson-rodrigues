@@ -1,7 +1,7 @@
 ### Oiii eu sou Anderson Rodrigues! 👋
 
 - 🔭 Hoje trabalho com front-end freelancer
-- 🌱 Estou estudando desenvolvimento full stack e terminando o módulo de html, css e java script
+- 🌱 Estou estudando desenvolvimento full stack e terminando o módulo 2 de Back-end { | Git | Git Hub | Node.Js | MongoDb | Mongoose | APIs de REST | Express.js | TypeScript | Jest | Eslint | Prettier | Bcrypt | Dotenv | Jwt | Yup | Npm | Yarn }
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronomes: ele/dele
