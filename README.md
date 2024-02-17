@@ -11,11 +11,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronomes: ele/dele
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="And-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
 ### Conecte-se comigo
 
@@ -47,5 +42,5 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigues1&theme=blue-gree">  -->
 ### Meus Principais Desafios de Projeto 
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=culture_power&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Culture-Power-backend)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=projeto_emocionometro&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Emocionometro-projeto-Frontend)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=Culture-Power-backend&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Culture-Power-backend)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=Emocionometro-projeto-Frontend&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Emocionometro-projeto-Frontend)
