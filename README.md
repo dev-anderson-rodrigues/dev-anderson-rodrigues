@@ -1,4 +1,9 @@
-### Oiii eu sou Anderson Rodrigues! 👋
+### <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+Anderson+Rodrigues...;Nice+to+meet+you!&center=center&size=24&color=DD0031"> 
+  </a>
+ </h1>
+ 👋
 
 - 🔭 Hoje trabalho com front-end freelancer
 - 🌱 Estou estudando desenvolvimento full stack e terminando o módulo 2 de Back-end { | Git | Git Hub | Node.Js | MongoDb | Mongoose | APIs de REST | Express.js | TypeScript | Jest | Eslint | Prettier | Bcrypt | Dotenv | Jwt | Yup | Npm | Yarn }
