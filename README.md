@@ -34,18 +34,18 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
-[![Git](https://img.shields.io/badge/Git-0404e2?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-0404e2?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-33FF99?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-33FF99?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 <div>
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonRodrigues1&theme=transparent&bg_color=000&border_color=0404e2&show_icons=true&icon_color=0404e2&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndersonRodrigues1&layout=compact&bg_color=000&border_color=0404e2&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonRodrigues1&theme=transparent&bg_color=000&border_color=33FF99&show_icons=true&icon_color=33FF99&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndersonRodrigues1&layout=compact&bg_color=000&border_color=33FF99&title_color=E94D5F&text_color=FFF)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigues1&theme=blue-green">  -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigues1&theme=blue-gree">  -->
 ### Meus Principais Desafios de Projeto 
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=culture_power&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Culture-Power-backend)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=projeto_emocionometro&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Emocionometro-projeto-Frontend)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=culture_power&bg_color=000&border_color=33FF99&show_icons=true&icon_color=33FF99&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Culture-Power-backend)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=projeto_emocionometro&bg_color=000&border_color=33FF99&show_icons=true&icon_color=33FF99&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Emocionometro-projeto-Frontend)
