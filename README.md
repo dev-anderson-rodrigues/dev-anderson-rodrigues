@@ -5,7 +5,7 @@
  </h1>
 
 
-- 🔭 Hoje trabalho com front-end freelancer
+
 - 🌱 Estou estudando desenvolvimento full stack e terminando o módulo 2 de Back-end { | Git | Git Hub | Node.Js | MongoDb | Mongoose | APIs de REST | Express.js | TypeScript | Jest | Eslint | Prettier | Bcrypt | Dotenv | Jwt | Yup | Npm | Yarn }
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
