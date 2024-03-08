@@ -6,9 +6,10 @@
 
 
 
-- 🌱 Estou estudando desenvolvimento full stack e terminando o módulo 2 de Back-end { | Git | Git Hub | Node.Js | MongoDb | Mongoose | APIs de REST | Express.js | TypeScript | Jest | Eslint | Prettier | Bcrypt | Dotenv | Jwt | Yup | Npm | Yarn }
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 Estou estudando desenvolvimento full stack pela escola de programação @arnia, senho aprovado até o momento em 2 módulos sendo um de front end { Html | Css3 | Javascript } e outro de Back-end { | Git | Git Hub | Node.Js | MongoDb | Mongoose | APIs de REST | Express.js | TypeScript | Jest | Eslint | Prettier | Bcrypt | Dotenv | Jwt | Yup | Npm | Yarn }
+
+- Estou estudando NestJS no momento.
+
 - 😄 Pronomes: ele/dele
  
 
@@ -24,13 +25,21 @@
  
 </div>
 
-### Habilidades 
+### Habilidades
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-DD0031?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-DD0031?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-DD0031?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)<br><br>
+<img align="top" alt="NodeJS Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="top" alt="Git Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" style="align:top" alt="electron" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank">
+
+<!-- <img align="center" alt="MySQL Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> -->
+          
 <div>
 
 ### GitHub Stats
