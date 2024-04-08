@@ -6,7 +6,7 @@
 
 
 
-- 🌱 Estou estudando desenvolvimento full stack pela escola de programação @arnia, senho aprovado até o momento em 2 módulos sendo um de <span color='red'>front end<span/> { Html | Css3 | Javascript } e outro de Back-end { | Git | Git Hub | Node.Js | MongoDb | Mongoose | APIs de REST | Express.js | TypeScript | Jest | Eslint | Prettier | Bcrypt | Dotenv | Jwt | Yup | Npm | Yarn }
+- 🌱 Estou estudando desenvolvimento full stack pela escola de programação @arnia, senho aprovado até o momento em 2 módulos sendo um de <span color=#000>front end<span/> { Html | Css3 | Javascript } e outro de Back-end { | Git | Git Hub | Node.Js | MongoDb | Mongoose | APIs de REST | Express.js | TypeScript | Jest | Eslint | Prettier | Bcrypt | Dotenv | Jwt | Yup | Npm | Yarn }
 
 - Estou estudando NestJS no momento.
 
