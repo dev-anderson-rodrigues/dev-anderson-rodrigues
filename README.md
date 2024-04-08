@@ -41,7 +41,6 @@
  </a> <a href="https://expressjs.com" target="_blank">
 </a> <a href="https://www.mongodb.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" style="align:top" alt="electron" width="40" height="40" />
 <div/>
 <!-- <img align="center" alt="MySQL Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> -->
           
