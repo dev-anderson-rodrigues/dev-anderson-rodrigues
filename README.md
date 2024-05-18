@@ -10,7 +10,7 @@
 <a href="https://andersonrodrigues.online" target="_blank"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" target="_blank"></a>
 </div>
 
-## Habilidades
+### Habilidades
 
 <div align="left">
 <div>  
@@ -37,6 +37,7 @@
  </div>
 </div>
 <div>
+ 
 ## Github Status
  <a href="https://www.github.com/dev-anderson-rodrigues">
  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-anderson-rodrigues&theme=transparent&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF"/><br/>
@@ -45,6 +46,7 @@
 
 <div>
  <div style="display: flex">
+  
 ### Meus Principais Desafios de Projeto
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Culture-Power-backend-Node-Express&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/Culture-Power-backend-Node-Express)
