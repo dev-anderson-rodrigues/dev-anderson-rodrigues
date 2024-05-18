@@ -54,7 +54,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-anderson-rodrigues&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andersonbrown1)](https://github.com/dev-anderson-rodrigues/github-readme-stats)
+<a href="https://github.com/dev-anderson-rodrigues/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dev-anderson-rodrigues" />
+</a>
+<a href="https://github.com/dev-anderson-rodrigues/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-anderson-rodrigues&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-anderson-rodrigues&layout=compact&bg_color=000&border_color=DD0031&title_color=E94D5F&text_color=FFF)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigues1&theme=blue-green">  -->
