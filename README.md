@@ -48,12 +48,12 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonRodrigues1&theme=transparent&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndersonRodrigues1&layout=compact&bg_color=000&border_color=DD0031&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-anderson-rodrigues&theme=transparent&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-anderson-rodrigues&layout=compact&bg_color=000&border_color=DD0031&title_color=E94D5F&text_color=FFF)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigues1&theme=blue-green">  -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigues1&theme=blue-gree">  -->
 ### Meus Principais Desafios de Projeto 
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=Culture-Power-backend&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Culture-Power-backend)]
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=Emocionometro-projeto-Frontend&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Emocionometro-projeto-Frontend)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Culture-Power-backend&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Culture-Power-backend)]
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=Emocionometro-projeto-Frontend&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/Emocionometro-projeto-Frontend)
