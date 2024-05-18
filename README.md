@@ -56,8 +56,6 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigues1&theme=blue-gree">  -->
 ### Meus Principais Desafios de Projeto 
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=back-end-metavagas&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/back-end-metavagas)
-
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Culture-Power-backend-Node-Express&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/Culture-Power-backend-Node-Express)
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Emocionometro-projeto-Frontend-Javascript-css-Html&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/Emocionometro-projeto-Frontend-Javascript-css-Html)
