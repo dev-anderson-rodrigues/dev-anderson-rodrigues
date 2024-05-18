@@ -1,5 +1,6 @@
 <img align="left" src="https://github.com/dev-anderson-rodrigues/repo-teste/assets/127049907/9e0342db-4516-4c76-964f-4aae67220082">
  <p><strong>Olá sou Anderson Rodrigues, desenvolvedor fullstack</strong></p>
+ - [Portifólio]<a href="https://andersonrodrigues.site" target="_blank">
 
  ### Conecte-se comigo
 <div>
@@ -9,12 +10,6 @@
   <a href="https://www.linkedin.com/in/dev-anderson-rodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://andersonrodrigues.online" target="_blank"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" target="_blank"></a>
 </div>
-
-### Portifólio
-
-<p>
- - <a href="https://andersonrodrigues.site" target="_blank">
-</p>
 
 ### Habilidades
 
