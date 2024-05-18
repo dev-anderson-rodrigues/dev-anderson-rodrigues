@@ -55,5 +55,5 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRodrigues1&theme=blue-gree">  -->
 ### Meus Principais Desafios de Projeto 
 
-[![Repo DIO Git GitHub](https://github.com/AndersonRodrigues1/Culture-Power-backend)]
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=Culture-Power-backend&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Culture-Power-backend)]
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AndersonRodrigues1&repo=Emocionometro-projeto-Frontend&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/AndersonRodrigues1/Emocionometro-projeto-Frontend)
