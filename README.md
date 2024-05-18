@@ -48,7 +48,8 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-anderson-rodrigues&theme=ambient_gradient&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-anderson-rodrigues&theme=transparent&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-anderson-rodrigues&theme=ambient_gradient&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-anderson-rodrigues&layout=compact&bg_color=000&border_color=DD0031&title_color=E94D5F&text_color=FFF)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigues1&theme=blue-green">  -->
 
