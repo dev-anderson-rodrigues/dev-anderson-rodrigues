@@ -1,7 +1,7 @@
 <img align="left" src="https://github.com/dev-anderson-rodrigues/repo-teste/assets/127049907/9e0342db-4516-4c76-964f-4aae67220082">
  <p><strong>Olá sou Anderson Rodrigues, desenvolvedor fullstack</strong></p>
 
- <h1>Conecte-se comigo</h1>
+ <h1 border-bottom="none">Conecte-se comigo</h1>
 <div>
   <a href="https://instagram.com/dev.anderson.rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andersoncassio2008@gmail.com
