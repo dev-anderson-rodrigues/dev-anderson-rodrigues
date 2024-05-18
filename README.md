@@ -54,7 +54,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-anderson-rodrigues&layout=compact)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-anderson-rodrigues&theme=ambient_gradient&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-anderson-rodrigues&theme=ambient_gradient&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-anderson-rodrigues&layout=compact&bg_color=000&border_color=DD0031&title_color=E94D5F&text_color=FFF)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=AndersonRodrigues1&theme=blue-green">  -->
