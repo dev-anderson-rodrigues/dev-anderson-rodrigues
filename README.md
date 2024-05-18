@@ -1,6 +1,7 @@
 <img align="left" src="https://github.com/dev-anderson-rodrigues/repo-teste/assets/127049907/9e0342db-4516-4c76-964f-4aae67220082">
  <p><strong>Olá sou Anderson Rodrigues, desenvolvedor fullstack</strong></p>
- - [Portifólio]<a href="https://andersonrodrigues.site" target="_blank"></a>
+
+- <a href="href="https://andersonrodrigues.site" target="_blank"><img src="https://github.com/dev-anderson-rodrigues/dev-anderson-rodrigues/assets/127049907/0640faa4-60f4-4d13-b471-209de20f8e1f" target="_blank"></a>
 
  ### Conecte-se comigo
 <div>
