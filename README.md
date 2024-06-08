@@ -56,9 +56,9 @@
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Emocionometro-projeto-Frontend-Javascript-css-Html&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/Emocionometro-projeto-Frontend-Javascript-css-Html)
  </div>
  <div>
-  - 🌱 Estou estudando desenvolvimento full stack pela escola de programação @arnia, senho aprovado até o momento em 2 módulos sendo um de front end { Html | Css3 | Javascript } e outro de Back-end { | Git | Git Hub | Node.Js | MongoDb | Mongoose | APIs de REST | Express.js | TypeScript | Jest | Eslint | Prettier | Bcrypt | Dotenv | Jwt | Yup | Npm | Yarn }
+  - 🌱 Estou estudando desenvolvimento full stack pela escola de programação @arnia, senho aprovado até o momento em 3 módulos sendo um de front end { Html | Css3 | Javascript }, Back-end { | Git | Git Hub | Node.Js | MongoDb | Mongoose | APIs de REST | Express.js | TypeScript | Jest | Eslint | Prettier | Bcrypt | Dotenv | Jwt | Yup | Npm | Yarn }, Back-end com framework NestJs { Nest.js | TypeORM | PostgreSQL | TypeScript | Swagger | JWT (Json Web Token) | Jest}
 
-- Estou estudando NestJS no momento.
+- Estou estudando ReactJS no momento.
 
 - 😄 Pronomes: ele/dele
  </div>
