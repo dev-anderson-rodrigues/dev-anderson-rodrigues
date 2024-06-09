@@ -39,8 +39,10 @@
  </div>
 </div>
 <div>
- <br>
+ 
+</div>
 ### Github Status
+<div>
  <a href="https://www.github.com/dev-anderson-rodrigues">
  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-anderson-rodrigues&theme=transparent&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF"/><br/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-anderson-rodrigues&layout=compact&bg_color=000&border_color=DD0031&title_color=E94D5F&text_color=FFF"/>
