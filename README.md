@@ -14,7 +14,7 @@
 
 ### Habilidades
 
-<div align="left">
+<div align="left" height="500px">
 <div>  
 <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white" />
