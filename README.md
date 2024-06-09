@@ -14,7 +14,7 @@
 
 ### Habilidades
 
-<div align="left" height="800px">
+<div align="left">
 <div>  
 <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white" />
@@ -39,7 +39,7 @@
  </div>
 </div>
 <div>
- 
+ <br>
 ### Github Status
  <a href="https://www.github.com/dev-anderson-rodrigues">
  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-anderson-rodrigues&theme=transparent&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF"/><br/>
