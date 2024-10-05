@@ -59,9 +59,9 @@
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Emocionometro-projeto-Frontend-Javascript-css-Html&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/Emocionometro-projeto-Frontend-Javascript-css-Html)
  </div>
  <div>
-  - 🌱 Estou estudando desenvolvimento full stack pela escola de programação @arnia, senho aprovado até o momento em 3 módulos sendo um de front end { Html | Css3 | Javascript }, Back-end { | Git | Git Hub | Node.Js | MongoDb | Mongoose | APIs de REST | Express.js | TypeScript | Jest | Eslint | Prettier | Bcrypt | Dotenv | Jwt | Yup | Npm | Yarn }, Back-end com framework NestJs { Nest.js | TypeORM | PostgreSQL | TypeScript | Swagger | JWT (Json Web Token) | Jest}
+  - 🌱 Conquistei meu certificado de Desenvolvedor Fullstack e adquiri expertise em tecnologias como JavaScript e Node.js, além de frameworks front-end como React.js e back-end como NestJS.
 
-- Estou estudando ReactJS no momento.
+Atualmente, estou complementando minha formação com a faculdade de Análise e Desenvolvimento de Sistemas, o que me proporciona uma base acadêmica sólida e um conhecimento mais amplo sobre sistemas. Tenho experiência com bancos de dados relacionais e não relacionais, incluindo MongoDB e PostgreSQL.
 
 - 😄 Pronomes: ele/dele
  </div>
