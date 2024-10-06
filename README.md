@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <!-- Profile Image -->
   <div>
-    <img align="left" width="160" height="400" src="https://github.com/dev-anderson-rodrigues/repo-teste/assets/127049907/9e0342db-4516-4c76-964f-4aae67220082">
+    <img align="left" width="160" height="300" src="https://github.com/dev-anderson-rodrigues/repo-teste/assets/127049907/9e0342db-4516-4c76-964f-4aae67220082">
   </div>
   
   <!-- Profile Information -->
