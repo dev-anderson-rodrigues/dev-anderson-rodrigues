@@ -58,7 +58,7 @@
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Emocionometro-projeto-Frontend-Javascript-css-Html&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/Emocionometro-projeto-Frontend-Javascript-css-Html)
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Team-Tech-School/back-end-metavagas&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/Team-Tech-School/back-end-metavagas)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Project-MetaVagas-React-Fullstack&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/Project-MetaVagas-React-Fullstack)
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Exercicios---Modulo-3-nestJS&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/dev-anderson-rodrigues/Exercicios---Modulo-3-nestJS)
  </div>
