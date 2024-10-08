@@ -2,9 +2,40 @@
     <h1><strong>Olá sou Anderson Rodrigues</strong></h1>
     <h2> <strong>Desenvolvedor Fullstack</strong></h2>
         <div>
-      <p>🌱 Conquistei meu certificado de Desenvolvedor Fullstack e adquiri expertise em tecnologias como JavaScript e Node.js, além de frameworks front-end como React.js e back-end como NestJS.</p>
-        <p>Atualmente, estou complementando minha formação com a faculdade de Análise e Desenvolvimento de Sistemas, o que me proporciona uma base acadêmica sólida e um conhecimento mais amplo sobre sistemas. Tenho experiência com bancos de dados relacionais e não relacionais, incluindo MongoDB e PostgreSQL.</p>
-      <p>😄 Pronomes: ele/dele</p>
+      <p>🌱 Sobre Mim 🚀
+
+💻 Desenvolvedor Fullstack com mais de 1 ano de experiência no desenvolvimento de software. Em transição de carreira, estou focado em criar soluções eficientes e inovadoras utilizando tecnologias modernas tanto no front-end quanto no back-end.
+
+🎓 Recentemente, conquistei a certificação de Desenvolvedor Fullstack, adquirindo ampla experiência com tecnologias como JavaScript, React.js, Node.js e NestJS. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, o que complementa minha formação técnica com uma sólida base acadêmica.
+
+⚙️ Tenho experiência com o desenvolvimento de APIs, bancos de dados relacionais e não-relacionais, e um forte entendimento de ferramentas e práticas modernas de desenvolvimento, sempre buscando as melhores soluções para cada projeto.
+
+🔧 Hard Skills
+
+Front-end:
+
+🌐 HTML, CSS, JavaScript, TypeScript
+⚛️ React.js, Next.js
+🎨 Tailwind CSS, MaterialUI, Bootstrap
+
+Back-end:
+
+🛠️ Node.js, NestJS, Express
+🔌 API REST, Swagger
+🗄️ Banco de dados: MySQL, PostgreSQL, MongoDB
+
+DevOps:
+
+🚀 Railway, Vercel, Netlify, Git, GitHub
+✅ Controle de qualidade: ESLint, Jest, Insomnia
+Outras Tecnologias e Ferramentas:
+
+🔗 Axios, Vite, APIs REST
+🖥️ Visual Studio Code
+📜 Certificações e Formação
+
+🖱️ Certificado de Desenvolvedor Fullstack
+🚀 Graduação em Análise e Desenvolvimento de Sistemas (em andamento)
     </div>
     <a href="https://andersonrodrigues.site" target="_blank">
       <img src="https://github.com/dev-anderson-rodrigues/dev-anderson-rodrigues/assets/127049907/51ba7445-79e3-482f-b19e-8dbbc04ff008">
