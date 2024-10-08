@@ -1,17 +1,15 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- Profile Image -->
-<!--   <div>
-    <img align="left" width="180" height="350" src="https://github.com/dev-anderson-rodrigues/repo-teste/assets/127049907/9e0342db-4516-4c76-964f-4aae67220082">
-  </div> -->
-  
-  <!-- Profile Information -->
   <div>
     <p><strong>Olá sou Anderson Rodrigues, desenvolvedor fullstack</strong></p>
+
+    <div>
+  <p>🌱 Conquistei meu certificado de Desenvolvedor Fullstack e adquiri expertise em tecnologias como JavaScript e Node.js, além de frameworks front-end como React.js e back-end como NestJS.</p>
+  <p>Atualmente, estou complementando minha formação com a faculdade de Análise e Desenvolvimento de Sistemas, o que me proporciona uma base acadêmica sólida e um conhecimento mais amplo sobre sistemas. Tenho experiência com bancos de dados relacionais e não relacionais, incluindo MongoDB e PostgreSQL.</p>
+  <p>😄 Pronomes: ele/dele</p>
+</div>
     <a href="https://andersonrodrigues.site" target="_blank">
       <img src="https://github.com/dev-anderson-rodrigues/dev-anderson-rodrigues/assets/127049907/51ba7445-79e3-482f-b19e-8dbbc04ff008">
     </a>
   </div>
-</div>
 
 ### Conecte-se comigo
 <div>
@@ -69,11 +67,4 @@
   <a href="https://github.com/dev-anderson-rodrigues/Exercicios---Modulo-3-nestJS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-anderson-rodrigues&repo=Exercicios---Modulo-3-nestJS&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF">
   </a>
-</div>
-
-<!-- Footer -->
-<div>
-  <p>🌱 Conquistei meu certificado de Desenvolvedor Fullstack e adquiri expertise em tecnologias como JavaScript e Node.js, além de frameworks front-end como React.js e back-end como NestJS.</p>
-  <p>Atualmente, estou complementando minha formação com a faculdade de Análise e Desenvolvimento de Sistemas, o que me proporciona uma base acadêmica sólida e um conhecimento mais amplo sobre sistemas. Tenho experiência com bancos de dados relacionais e não relacionais, incluindo MongoDB e PostgreSQL.</p>
-  <p>😄 Pronomes: ele/dele</p>
 </div>
