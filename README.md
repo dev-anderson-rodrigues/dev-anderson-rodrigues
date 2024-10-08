@@ -35,6 +35,7 @@ Outras Tecnologias e Ferramentas:
 📜 Certificações e Formação
 
 🖱️ Certificado de Desenvolvedor Fullstack
+
 🚀 Graduação em Análise e Desenvolvimento de Sistemas (em andamento)
     </div>
     <a href="https://andersonrodrigues.site" target="_blank">
