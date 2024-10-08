@@ -1,5 +1,6 @@
   <div>
-    <h1><strong>Olá sou Anderson Rodrigues, desenvolvedor fullstack</strong></h1>
+    <h1><strong>Olá sou Anderson Rodrigues</strong></h1>
+    -- <h2>Desenvolvedor Fullstack</h2>
         <div>
       <p>🌱 Conquistei meu certificado de Desenvolvedor Fullstack e adquiri expertise em tecnologias como JavaScript e Node.js, além de frameworks front-end como React.js e back-end como NestJS.</p>
         <p>Atualmente, estou complementando minha formação com a faculdade de Análise e Desenvolvimento de Sistemas, o que me proporciona uma base acadêmica sólida e um conhecimento mais amplo sobre sistemas. Tenho experiência com bancos de dados relacionais e não relacionais, incluindo MongoDB e PostgreSQL.</p>
