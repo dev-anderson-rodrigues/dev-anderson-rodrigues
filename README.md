@@ -1,8 +1,8 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <!-- Profile Image -->
-  <div>
+<!--   <div>
     <img align="left" width="180" height="350" src="https://github.com/dev-anderson-rodrigues/repo-teste/assets/127049907/9e0342db-4516-4c76-964f-4aae67220082">
-  </div>
+  </div> -->
   
   <!-- Profile Information -->
   <div>
