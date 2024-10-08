@@ -1,11 +1,10 @@
   <div>
     <p><strong>Olá sou Anderson Rodrigues, desenvolvedor fullstack</strong></p>
-
-    <div>
-  <p>🌱 Conquistei meu certificado de Desenvolvedor Fullstack e adquiri expertise em tecnologias como JavaScript e Node.js, além de frameworks front-end como React.js e back-end como NestJS.</p>
-  <p>Atualmente, estou complementando minha formação com a faculdade de Análise e Desenvolvimento de Sistemas, o que me proporciona uma base acadêmica sólida e um conhecimento mais amplo sobre sistemas. Tenho experiência com bancos de dados relacionais e não relacionais, incluindo MongoDB e PostgreSQL.</p>
-  <p>😄 Pronomes: ele/dele</p>
-</div>
+        <div>
+      <p>🌱 Conquistei meu certificado de Desenvolvedor Fullstack e adquiri expertise em tecnologias como JavaScript e Node.js, além de frameworks front-end como React.js e back-end como NestJS.</p>
+      <p>Atualmente, estou complementando minha formação com a faculdade de Análise e Desenvolvimento de Sistemas, o que me proporciona uma base acadêmica sólida e um conhecimento mais amplo sobre sistemas. Tenho experiência com bancos de dados relacionais e não relacionais, incluindo MongoDB e PostgreSQL.</p>
+      <p>😄 Pronomes: ele/dele</p>
+    </div>
     <a href="https://andersonrodrigues.site" target="_blank">
       <img src="https://github.com/dev-anderson-rodrigues/dev-anderson-rodrigues/assets/127049907/51ba7445-79e3-482f-b19e-8dbbc04ff008">
     </a>
