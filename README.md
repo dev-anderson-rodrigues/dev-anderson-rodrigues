@@ -22,7 +22,7 @@ Back-end:
 
 🛠️ Node.js, NestJS, Express
 🔌 API REST, Swagger
-🗄️ Banco de dados: MySQL, PostgreSQL, MongoDB
+🗄️ Banco de dados: PostgreSQL, MongoDB
 
 DevOps:
 
