@@ -1,49 +1,78 @@
 # Olá, eu sou Anderson Rodrigues 👋
 
-## Desenvolvedor Full Stack | IA, automação e integrações
+## Desenvolvedor Full Stack Pleno | IA, automação e produtos SaaS
 
-Desenvolvo produtos web e automações com foco em resolver problemas reais de negócio. Minha atuação envolve APIs, integrações entre sistemas, fluxos automatizados e aplicações full stack — da arquitetura ao deploy e à manutenção em produção.
+Desenvolvo produtos e automações voltados a problemas reais de negócio, com atuação em todo o ciclo de entrega: levantamento do processo, arquitetura, desenvolvimento, integrações, testes, deploy e acompanhamento em produção.
 
-Atualmente trabalho principalmente com **TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, MongoDB, Redis, Docker e n8n**.
+Minha experiência é concentrada em **sistemas de atendimento, automação de cobrança, integrações com ERPs e soluções com agentes de IA**, usando principalmente **TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, MongoDB, Redis, Docker e n8n**.
 
-### Áreas de atuação
+## Produtos e soluções profissionais
+
+### Maestro — atendimento automatizado com múltiplos agentes de IA
+
+Idealizei e desenvolvi uma plataforma de atendimento automatizado integrada ao **Chatwoot**, com agentes especializados para suporte, financeiro, comercial, vendas e triagem.
+
+- Orquestração de agentes e fluxos com n8n
+- Integrações personalizadas com sistemas externos
+- Centralização das conversas e operação no Chatwoot
+- Arquitetura com RAG e banco vetorial para recuperação de contexto
+- Solução em produção e em evolução contínua
+
+> O código pertence à empresa e está em repositório privado. Aqui apresento somente minha atuação e as tecnologias utilizadas.
+
+### Plataforma SaaS de automação de cobrança para provedores
+
+Participei da idealização, arquitetura e desenvolvimento de uma plataforma voltada à automação de cobranças por WhatsApp para provedores de internet.
+
+- Integrações com os ERPs **IXC Soft, SGP e Hubsoft**
+- Régua de cobrança com múltiplas etapas
+- Envio de PIX diretamente na conversa pelo WhatsApp Business
+- Filas de processamento, retentativas automáticas e workers
+- Verificação periódica de pagamentos
+- Agente de IA para negociação e atendimento
+- Comunicação em tempo real e processamento assíncrono com Redis
+
+Código público relacionado: [project-charge](https://github.com/SiriusDevelopment-SDA/project-charge)
+
+### Unifica+ — automação operacional para atendimento
+
+Desenvolvimento e manutenção de um produto interno para operações de call center de provedores de internet.
+
+- Organização e padronização do atendimento
+- Registro automatizado de informações em ERP
+- Abertura e documentação de chamados técnicos
+- Integrações com sistemas internos e webhooks
+- Redução de tarefas manuais e prevenção de erros operacionais
+
+> Produto interno mantido em repositório privado da organização.
+
+## Responsabilidades técnicas
 
 - Desenvolvimento de APIs REST e integrações via webhooks
-- Automação de processos e agentes de IA
-- Aplicações SaaS e sistemas de atendimento
-- Integrações com WhatsApp Business API e Chatwoot
+- Automação de processos e construção de agentes de IA
 - Processamento assíncrono com filas, workers e Redis
-- Deploy e operação de aplicações em servidores Linux com Docker e Traefik
+- Comunicação em tempo real com WebSocket
+- Bancos de dados PostgreSQL e MongoDB
+- Servidores Linux, Docker, Traefik, CI/CD e monitoramento
+- Uso de Git e GitHub no fluxo de desenvolvimento
+- Participação do planejamento ao suporte em produção
 
-### Projetos em destaque
-
-#### [Broker Hub](https://github.com/dev-anderson-rodrigues/broker_solutions)
-
-Plataforma de comunicação multicanal com backend em NestJS e frontend em React. Centraliza canais, mensagens e webhooks, incluindo integração bidirecional com o Chatwoot.
-
-**Tecnologias:** TypeScript, NestJS, React, TypeORM, Tailwind CSS e APIs REST.
-
-#### [Portfólio 3.0](https://github.com/dev-anderson-rodrigues/meu-novo-portifolio-3.0)
-
-Portfólio responsivo construído com Next.js, React e TypeScript para apresentar minha trajetória e meus projetos de desenvolvimento web.
-
-**Tecnologias:** Next.js, React, TypeScript, Material UI e Tailwind CSS.
-
-#### [Culture Power API](https://github.com/dev-anderson-rodrigues/Culture-Power-backend-Node-Express)
-
-API de gamificação com autenticação, autorização, gerenciamento de usuários e produtos e regras de resgate.
-
-**Tecnologias:** Node.js, Express, MongoDB, Mongoose, JWT e bcrypt.
-
-### Stack principal
+## Stack principal
 
 **Backend:** Node.js · TypeScript · NestJS · Express · APIs REST  
 **Frontend:** React · Next.js · Tailwind CSS · Material UI  
-**Dados:** PostgreSQL · MongoDB · Redis  
-**Automação e integrações:** n8n · Webhooks · WhatsApp Business API · Chatwoot  
-**Infraestrutura:** Docker · Linux · Traefik · Git · GitHub
+**Dados:** PostgreSQL · MongoDB · Redis · bancos vetoriais  
+**IA e automação:** n8n · RAG · agentes de IA · webhooks  
+**Integrações:** WhatsApp Business API · Chatwoot · IXC · SGP · Hubsoft  
+**Infraestrutura:** Docker · Linux · Traefik · CI/CD · GitHub
 
-### Contato
+## Projetos públicos e estudos
+
+- [Broker Hub](https://github.com/dev-anderson-rodrigues/broker_solutions) — comunicação multicanal com NestJS, React e integração com Chatwoot
+- [Portfólio 3.0](https://github.com/dev-anderson-rodrigues/meu-novo-portifolio-3.0) — portfólio desenvolvido com Next.js, React e TypeScript
+- [Culture Power API](https://github.com/dev-anderson-rodrigues/Culture-Power-backend-Node-Express) — API com Node.js, Express, MongoDB, autenticação e autorização
+
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/dev-anderson-rodrigues)
 - [Portfólio](https://andersonrodrigues.shop/portifolio)
