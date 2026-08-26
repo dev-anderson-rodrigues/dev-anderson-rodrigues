@@ -66,12 +66,13 @@ Desenvolvimento e manutenção de um produto interno para operações de call ce
 **Integrações:** WhatsApp Business API · Chatwoot · IXC · SGP · Hubsoft  
 **Infraestrutura:** Docker · Linux · Traefik · CI/CD · GitHub
 
-## Projetos públicos e estudos
+## Projetos públicos e favoritos
 
 - [Broker Hub](https://github.com/dev-anderson-rodrigues/broker_solutions) — comunicação multicanal com NestJS, React e integração com Chatwoot
-- [Portfólio 3.0](https://github.com/dev-anderson-rodrigues/meu-novo-portifolio-3.0) — portfólio desenvolvido com Next.js, React e TypeScript
+- [back-end-metavagas](https://github.com/Team-Tech-School/back-end-metavagas)) — Api com Nest.js, type orm, postgres, autenticação e autorização
 - [Culture Power API](https://github.com/dev-anderson-rodrigues/Culture-Power-backend-Node-Express) — API com Node.js, Express, MongoDB, autenticação e autorização
-
+- [Project Charge](https://github.com/SiriusDevelopment-SDA/project-charge) - comunicação whatsapp com NestJS, React e integração com Chatwoot (chat opensource) e embbed.
+  
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/dev-anderson-rodrigues)
