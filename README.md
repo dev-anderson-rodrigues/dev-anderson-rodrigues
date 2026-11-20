@@ -24,7 +24,7 @@ Idealizei e desenvolvi uma plataforma de atendimento automatizado integrada ao *
 
 Participei da idealização, arquitetura e desenvolvimento de uma plataforma voltada à automação de cobranças por WhatsApp para provedores de internet.
 
-- Integrações com os ERPs **IXC Soft, SGP e Hubsoft**
+- Integrações com os ERPs **IXC Soft, SGP, Hubsoft, Mk solution, Radius net, etc..**
 - Régua de cobrança com múltiplas etapas
 - Envio de PIX diretamente na conversa pelo WhatsApp Business
 - Filas de processamento, retentativas automáticas e workers
